@@ -20,6 +20,7 @@ public class Main {
     matrixoperator.maxElement(matrix);
     matrixoperator.minElement(matrix);
     matrixoperator.multiply(matrix);
+    matrixoperator.mostRepetedValue(matrix);
 
     }
 }
